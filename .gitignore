@@ -1,0 +1,16 @@
+# Secretos
+.env
+
+# Flutter / Dart
+.dart_tool/
+.packages
+build/
+.flutter-plugins
+.flutter-plugins-dependencies
+pubspec.lock
+
+# IDEs
+.idea/
+.vscode/
+*.iml
+.DS_Store
